@@ -1,4 +1,5 @@
 # Google Data Analytics Capstone Project: Cyclistic
+# Insights for bike rides in Chicago
 ### Capstone project to complete the Google Data Analytics Specialization.
 ### Here are listed, the deliverables required in each phase of the project.
 
